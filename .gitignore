@@ -1,5 +1,6 @@
 #The data should be moved by hand
 AudioData/
+data\ sets/
 GeneratedData/
 models/
 *.mov
